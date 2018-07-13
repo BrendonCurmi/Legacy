@@ -1,0 +1,14 @@
+libs
+src/com/TheFusion/Legacy/APIs/ArmorStandAPI.java
+src/com/TheFusion/Legacy/APIs/InventoryAPI.java
+src/com/TheFusion/Legacy/APIs/MsgType.java
+src/com/TheFusion/Legacy/APIs/TimeAPI.java
+src/com/TheFusion/Legacy/Commands/LegacyCommands.java
+src/com/TheFusion/Legacy/Listeners/PlayerEvents.java
+src/com/TheFusion/Legacy/Listeners/ProfanityFilter.java
+src/com/TheFusion/Legacy/MySQL.java
+src/com/TheFusion/Legacy/test.java
+src/config.yml
+src/mysql.yml
+src/players.yml
+*.iml

@@ -1,0 +1,22 @@
+name: Legacy
+author: McFusion
+main: com.TheFusion.Legacy.Legacy
+version: 1.0
+depend: [DisguiseCraft, HolographicDisplays, PermissionsEx, Vault]
+commands:
+  help:
+    description: Help
+  config:
+    description: Gives config information
+  balance:
+    description: Tells you your balance!
+  whoami:
+    description: Gives you information about your player!
+  coins:
+    desription: Main command for FusionCoins!
+  lag:
+    description: Lag!
+  transform:
+    description: Transform!
+  anvilgui:
+    description: Avil testing
